@@ -3,6 +3,7 @@ To do:
 -Iterate on RQ, possibly remove names and other noise in txt files
 -look at the nlp1_lab notebook to see if i can move some of these code sections into my main notebook
 
+for seminar: one data viz, like a graph, telling a story about the paper
 DONE:
 RQ
 population
@@ -41,3 +42,6 @@ Headlines and Keywords: Recurrent emphasis on terms like "AI," "video," and "gen
 . Engagement with Visual and Experiential Language
 Imagistic Phrasing: Words like "explore," "view," "world," and "scene" evoke vivid imagery, creating an experiential connection between the audience and the technology.
 Active Voice and Direct Address: Sentences like "You’ll explore" and "This lets you step into" involve the audience directly, fostering engagement. This includes Subjectivity in Future Projections exemplified in references to aspirational goals (e.g., "changing how we make movies") inspire excitement while leaving room for interpretation.
+
+They are quite minimal information value on the research side aka the under the hood details. However, what stands out is their reliance on comparative strategies.
+
