@@ -9,7 +9,7 @@ RQ
 population
 sampling
 preprocessing (data cleaning and structuring) 
-quick and dirty exploratory narrative analysis using ChatGPT and sentence-based text data ("Act as a NLP expert who's analyzing this text corpus consisting of 11 different 'video model announcements' and perform all the steps required for narrative analysis" with subsequent prompts) and then token-based text data to compare the analyses.
+quick and dirty (since the context window is limited) exploratory narrative analysis using ChatGPT and sentence-based text data ("Act as a NLP expert who's analyzing this text corpus consisting of 11 different 'video model announcements' and perform all the steps required for narrative analysis" with subsequent prompts) and then token-based text data to compare the analyses.
 
 Some of the most interesting and worthy output I receive is based on the following, with minor clarifications from my side:
 
@@ -43,5 +43,9 @@ Headlines and Keywords: Recurrent emphasis on terms like "AI," "video," and "gen
 Imagistic Phrasing: Words like "explore," "view," "world," and "scene" evoke vivid imagery, creating an experiential connection between the audience and the technology.
 Active Voice and Direct Address: Sentences like "You’ll explore" and "This lets you step into" involve the audience directly, fostering engagement. This includes Subjectivity in Future Projections exemplified in references to aspirational goals (e.g., "changing how we make movies") inspire excitement while leaving room for interpretation.
 
-They are quite minimal information value on the research side aka the under the hood details. However, what stands out is their reliance on comparative strategies.
+They are quite minimal information value on the research side aka the under the hood details. However, what stands out in this output is the document corpus' reliance on comparative strategies.
+
+UPDATE:
+I return to this project, my notebook has failed and i have to spend quite some time getting back into it, the file directory seems out of touch with my latest work.
+I read the course literature and consider doing a comparative project instead, looking at how similar the documents are (cosine). But I decide to doing topic modeling for my assignment as an exploratory take on the research question. I'm setting up a new Notebook modeled on the nlp2 Notebook.
 
